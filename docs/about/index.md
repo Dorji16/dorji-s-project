@@ -20,19 +20,18 @@ title: About Me
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1u1_Mebw0WiAgEy98OZ64ls9IW0oCBlAh&sz=w400" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1WG2L0HM43DU7EqbppKxUHIHs4IIf6lFL&sz=w400" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Dorji Yangzom
 
-**Title / Role** — student
+Student
 
-> _"Add your favorite quote or personal tagline here."_
+> "_Never Give Up Even In the Hardest Time"_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+I am Dorji Yangzom from Zhemgang, currently studying in the eleventh grade. I want to explore many things about technology. I want to create my own project and motivate others to learn and explore as well. To be honest, I was not very interested in exploring technology due to its complext code, however, last year I realized that I can do anything through these codes. It does take time but by judginf other team, I feel like its not that hard. 
 
 </div>
 
@@ -44,21 +43,14 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2024 – 2026 | Higher  secondary| The Royal Academy
+| 2022 – 2024 | Middle Secondary | The Royal Academy
 
 ## 🛠️ Skills
 
 <div markdown>
 
 <span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
-<span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
 
 </div>
 
@@ -71,18 +63,17 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🌟 Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
+- 🔬 **Research Area 1** — I am very interested in hiking. It's one of my interest that i had from the childhood itself. I really like hiking because it connect me with nature and make me calm and positive. During hiking I get to explore nature as i want. Whenever I am hiking, my mind seems to be at ease where there is no pressure from outsideworld. 
+- 🎨 **Creative Hobby** — My hobby would be painting eventhough I am very bad at it.  My painting won't probably make any sense if I show it to someone. However, I like painting because I can pour all my emotions in there if I can't put it in words. So that's why I feel like painting is one of my hobby. 
 
 <hr class="section-divider">
 
 ## 📬 Contact
 
+
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
-| :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
+| :fontawesome-brands-github: GitHub | [@dorji.yangzom2022](https://github.com/yourusername) |
+| :fontawesome-brands-linkedin: LinkedIn | [Dorji Yangzom](https://linkedin.com/in/yourusername) |
+| :material-email: Email | [dorji.yangzom2022@academy.bt](mailto:your.email@example.com) |
+| :material-web: Website | [https://dorji-yangzom-ff6b10.gitlab.io/about/](https://yourwebsite.com) |
