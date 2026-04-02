@@ -158,6 +158,7 @@ nav:
       - "3D Designing": documentation/3d_design.md
       - "base documentation": documentation/base documenattion.md
       - "laser cutting": documentation/laser cutting.md
+      - "3D Printing": documentation/3D Printing.md
 
   - Projects:
       - Overview: projects/index.md
