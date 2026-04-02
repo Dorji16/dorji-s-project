@@ -156,6 +156,8 @@ nav:
       - Blinking LED : documentation/led_blink.md
       - "📝 Blank Template": documentation/template.md
       - "3D Designing": documentation/3d_design.md
+      - "base documentation": documentation/base documenattion.md
+      
 
   - Projects:
       - Overview: projects/index.md
