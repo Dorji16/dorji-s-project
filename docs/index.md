@@ -1,75 +1,79 @@
 ---
-hide:
-  - navigation
-  - toc
+title: About Me
 ---
 
-<!-- Hero Section -->
-<!-- 👇 Replace YOUR_FILE_ID with your Google Drive image file ID -->
-<div class="hero-section has-bg-image" style="background: linear-gradient(135deg, rgba(57,73,171,0.85), rgba(26,35,126,0.9)), url('https://drive.google.com/thumbnail?id=1XpVghCFdPBU_flmhSBTXg3IRLTQ4sQqi&sz=w1600') center/cover no-repeat;" markdown>
+# About Me
+
+<!-- ============================================================
+     INSTRUCTIONS: Replace placeholder text below with your info.
+     To use a Google Drive profile photo, see the image section.
+     ============================================================ -->
+
+<div class="profile-section" markdown>
+
+<!-- ── Profile Photo ─────────────────────────────────────────
+     To embed a photo from Google Drive:
+     1. Upload your photo to Google Drive
+     2. Right-click → Share → "Anyone with the link"
+     3. Copy the FILE ID from the share link
+        (e.g., https://drive.google.com/file/d/FILE_ID/view)
+     4. Replace YOUR_FILE_ID below
+     ──────────────────────────────────────────────────────── -->
+
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1WG2L0HM43DU7EqbppKxUHIHs4IIf6lFL&sz=w400" alt="Profile Photo">
 
 
-# 👋 Welcome to My Documentation Site
+<div class="profile-info" markdown>
 
-_A place to document my journey, learning, and projects._
+## Dorji Yangzom
 
-</div>
+Student
 
----
+> "_Never Give Up Even In the Hardest Time"_
 
-## 🚀 Quick Navigation
-
-<div class="card-grid" markdown>
-
-<div class="card" markdown>
-
-### 🧑‍💻 About Me
-
-Learn more about who I am, my background, education, and skills.
-
-[:octicons-arrow-right-24: Go to About Me](about/index.md)
-
-</div>
-
-<div class="card" markdown>
-
-### 📚 Documentation
-
-Browse my notes, guides, and learning materials organized by topic.
-
-[:octicons-arrow-right-24: View Documentation](documentation/index.md)
-
-</div>
-
-<div class="card" markdown>
-
-### 🏗️ Projects
-
-Explore my project portfolio with detailed documentation for each one.
-
-[:octicons-arrow-right-24: See Projects](projects/index.md)
+I am Dorji Yangzom from Zhemgang, currently studying in the eleventh grade. I want to explore many things about technology. I want to create my own project and motivate others to learn and explore as well. To be honest, I was not very interested in exploring technology due to its complext code, however, last year I realized that I can do anything through these codes. It does take time but by judginf other team, I feel like its not that hard. 
 
 </div>
 
 </div>
 
----
+<hr class="section-divider">
 
-## 📖 How to Use This Site
+## 🎓 Education
 
-| Tab | What You'll Find |
-|-----|-----------------|
-| **Home** | This welcome page with quick links |
-| **About Me** | My introduction, skills, and contact info |
-| **Documentation** | Notes and guides on various topics |
-| **Projects** | Detailed documentation for each project |
+| Year | Degree / Grade | School |
+|------|-----------------|-------------|
+| 2024 – 2026 | Higher  secondary| The Royal Academy
+| 2022 – 2024 | Middle Secondary | The Royal Academy
 
-!!! tip "For Students Using This Template"
+## 🛠️ Skills
 
-    This site is built with **MkDocs Material**.  
-    Everything is written in **Markdown** — just edit the `.md` files in the `docs/` folder!  
-    Check the [README](https://github.com/yourusername/yourrepo) for setup instructions.
-    if you want to test in your local machine, use this command: 
-    - pip install mkdocs-material
-    - mkdocs serve --livereload
-    - Open http://127.0.0.1:8000
+<div markdown>
+
+<span class="skill-badge">Python</span>
+
+</div>
+
+!!! tip "Customize Your Skills"
+
+    Replace the badges above with your own skills.  
+    Just copy-paste a `<span class="skill-badge">Your Skill</span>` line and change the text.
+
+<hr class="section-divider">
+
+## 🌟 Interests
+
+- 🔬 **Research Area 1** — I am very interested in hiking. It's one of my interest that i had from the childhood itself. I really like hiking because it connect me with nature and make me calm and positive. During hiking I get to explore nature as i want. Whenever I am hiking, my mind seems to be at ease where there is no pressure from outsideworld. 
+- 🎨 **Creative Hobby** — My hobby would be painting eventhough I am very bad at it.  My painting won't probably make any sense if I show it to someone. However, I like painting because I can pour all my emotions in there if I can't put it in words. So that's why I feel like painting is one of my hobby. 
+
+<hr class="section-divider">
+
+## 📬 Contact
+
+
+| Platform | Link |
+|----------|------|
+| :fontawesome-brands-github: GitHub | [@dorji.yangzom2022](https://github.com/yourusername) |
+| :fontawesome-brands-linkedin: LinkedIn | [Dorji Yangzom](https://linkedin.com/in/yourusername) |
+| :material-email: Email | [dorji.yangzom2022@academy.bt](mailto:your.email@example.com) |
+| :material-web: Website | [https://dorji-yangzom-ff6b10.gitlab.io/about/](https://yourwebsite.com) |
