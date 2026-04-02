@@ -159,7 +159,7 @@ nav:
       - "base documentation": documentation/base documenattion.md
       - "laser cutting": documentation/laser cutting.md
       - "3D Printing": documentation/3D Printing.md
-
+      - "About me": about/index.md
   - Projects:
       - Overview: projects/index.md
       - "📋 Project Template": projects/project-template.md
