@@ -157,7 +157,7 @@ nav:
       - "📝 Blank Template": documentation/template.md
       - "3D Designing": documentation/3d_design.md
       - "base documentation": documentation/base documenattion.md
-      
+      - "laser cutting": documentation/laser cutting.md
 
   - Projects:
       - Overview: projects/index.md
