@@ -131,3 +131,11 @@ When I was confused about something, I asked my friends for help. Their explanat
 4. Trial and Error
 
 I also learned through trial and error. I made many mistakes while creating the bottle, but those mistakes helped me understand what I was doing wrong and eventually helped me complete the model.
+
+##. Conclusion
+
+Overall, this project helped me develop a better understanding of 3D design and Onshape. At the beginning, I found sketching, alignment, dimensions, and the different tools very difficult.
+
+However, through watching tutorials, practicing multiple times, asking my friends for help, and using trial and error, I was able to create my own 3D water bottle.
+
+I still have a lot to learn about Onshape, but this project has given me more confidence and helped me understand the basic process of creating a 3D design. I hope to continue practicing and learn how to use more advanced tools in the future.
