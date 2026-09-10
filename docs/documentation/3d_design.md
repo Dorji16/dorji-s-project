@@ -1,7 +1,7 @@
 # 3D Designing
 
 ## Onshape
-Onshape is a cloud-based 3D CAD software that lets you design parts and assemblies in a web browser. You can work with others at the same time, and it keeps track of changes automatically. My first time using Onshape was hard because I didn’t know the tools, but little by little I am learning and starting to make my own designs. Moreover, I used youtube as my learnig source where they taught me in a very simple and understanding way. Those tutorials were for beginners and I would say that those videos were quite effective for me as I got to learn many new things about onshape. 
+Onshape is a cloud-based 3D CAD software that lets you design parts and assemblies in a web browser. You can work with others at the same time, and it keeps track of changes automatically. My first time using Onshape was hard because I didn’t know the tools, but little by little I am learning and starting to make my own designs. Moreover, I used youtube as my learning source where they taught me in a very simple and understanding way. Those tutorials were for beginners and I would say that those videos were quite effective for me as I got to learn many new things about onshape. 
 
 ## Water Bottle
 For my project, I made a water bottle in Onshape. At first, it was challenging because I had never even heard of it let alone using 3D CAD software before. I learned how to create sketches, adjust dimensions, and turn them into a 3D shape. It took quite a time to understand the process and if tehy ask me do it again, I think I wont be able to do it smoothly. I will have to practice once again to understand the whole process. I am looking forward to learn thses steps by heart at the end of this project. 
