@@ -108,7 +108,9 @@ Setting the correct measurements was also confusing for me. Sometimes the dimens
 
 Rewatching tutorials helped me learn more. I noticed that I could understand and notice many new things that I had missed when watching the tutorial for the first time.
 
-2. Practicing multiple times(practice makes you perfect and I also realized that I learned so much through constant practice.)
+2. Practicing Multiple Times
+
+I practiced the process multiple times. I realized that I learned a lot through constant practice. The more I practiced, the more comfortable I became with the tools.
 
 3. Asking friends
 
