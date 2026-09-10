@@ -15,11 +15,13 @@ However, after sir taught us the whole process, I realized that 3D printing is n
 ## Step 1: Open PrusaSlicer
 Launch PrusaSlicer on your computer.
 
-2. Select Your Printer: In the top-right corner, select the following:
+## Step 2: Select Your Printer
 
-Printer	Prusa i3 MK3
-Filament	PLA (or your preferred material)
-Print Settings	0.20mm QUALITY
+In the top-right corner, select the following:
+
+Printer: Prusa i3 MK3
+Filament: PLA (or your preferred material)
+Print Settings: 0.20mm QUALITY
 
 3. Import Your 3D Model: Import your 3D model using one of the following methods:
 
