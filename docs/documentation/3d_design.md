@@ -84,8 +84,8 @@ This is the final 3D model of my water bottle. After completing the sketch, I us
 I then refined the design by improving the edges and proportions. After going through the different stages of sketching, adjusting, and modeling, I was able to complete my water bottle design.
 
 ## Tools Used in Onshape
-1. Sketch
-2. Line / Circle
+1. Sketch - Used to create the initial 2D shape.
+2. Line / Circle -
 3. Dimension
 4. Extrude
 5. Fillet(if needed)
