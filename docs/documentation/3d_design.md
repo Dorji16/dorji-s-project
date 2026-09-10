@@ -91,7 +91,9 @@ I then refined the design by improving the edges and proportions. After going th
 5. Fillet(if needed) - Used when needed to smooth or round edges.
 
 ## Challenges That I Faced
-1. Difficulty understanding sketch directions: It was very hard for me to control which way lines and shapes should move. 
+1. Difficulty Understanding Sketch Directions
+
+It was very hard for me to control which direction the lines and shapes should move. At first, I was confused about how to position different parts of the sketch correctly.
 
 2. Trouble aligning shapes: I struggled to position different parts so they matched properly especially when I was making a bottle neck. 
 
