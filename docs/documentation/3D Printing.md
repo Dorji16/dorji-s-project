@@ -14,8 +14,10 @@ However, after sir taught us the whole process, I realized that 3D printing is n
 
 ## Step 1: Open PrusaSlicer
 Launch PrusaSlicer on your computer.
+"Picture of PrusaSlicer"
 
 ## Step 2: Select Your Printer
+"Picture showing the printer and filament settings"
 
 In the top-right corner, select the following:
 
@@ -24,6 +26,7 @@ Filament: PLA (or your preferred material)
 Print Settings: 0.20mm QUALITY
 
 ## Step 3: Import Your 3D Model
+"Picture of the model on the print bed"
 
 Import your 3D model using one of the following methods:
 
