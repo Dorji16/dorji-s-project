@@ -13,10 +13,13 @@ My first time using Onshape was difficult because I did not know how the tools w
 
 I mainly used YouTube as a learning source. The tutorials explained the tools in a simple and understandable way. Most of the tutorials were made for beginners, and I found them quite effective because I was able to learn many new things about Onshape.
 
-# Introduction
-Learning design in Onshape was difficult because it was my first time using it. I didn’t know anything at first,not even about gitlab let alone using software to create my desighns.On top if that, understanding the tools and how to create shapes was also very hard for me. However, after some time, I started learning from youtube and my friends. It is still challenging for me to know all the tools in onshape, so I feel like it will take some time for me to be able to use it fully. 
+## Water Bottle
 
+For my project, I decided to make a simple water bottle in Onshape. At first, it was challenging because I had never even heard of Onshape, let alone used 3D CAD software before.
 
+Through this project, I learned how to create sketches, adjust dimensions, and turn a 2D sketch into a 3D shape. It took me quite some time to understand the process. If I were asked to create the same model again, I don't think I would be able to do it smoothly yet. I would still need more practice to remember all the steps.
+
+I am looking forward to learning these steps well and becoming more confident with Onshape by the end of this project.
 ## Getting Started
 
 1. Open Onshape at https://www.onshape.com/en/
