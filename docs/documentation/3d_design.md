@@ -33,7 +33,7 @@ I am looking forward to learning these steps well and becoming more confident wi
 ## Tutorial I Used
 Here is the tutorial I used for my design:
 
-YouTube tutorial
+https://cad.onshape.com/signin
 
 This video helped me learn basic tools such as Extrude, Revolve, and Fillet, which are useful for creating and modifying 3D objects. Since the tutorial was aimed at beginners, it was easier for me to understand the tools and follow along with the steps.
 
@@ -46,33 +46,43 @@ This first attempt helped me become more familiar with the software. After pract
 # Step by Step process: 
 
 ## Step 1: Creating a Sketch
+
 1. Select a plane (Front, Top, or Right).
 2. Start a sketch using basic shapes like lines and circles.
 3. Adjust the direction and position of the sketch elements to form the base structure.
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1pwsljKYrMTfcVQxd3R2mzaTEX0B68T0i&sz=w400" alt="Profile Photo">
 
 ## Step 2: Refining the Sketch
+
 1. Modify the sketch by adjusting curves and lines.
 2. Align the neck and body of the bottle properly.
 3. Ensure the shape is positioned correctly before adding details.
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1g_UGzDhFrrHnabGAtMlYer5G05SDhBhb&sz=w400" alt="Profile Photo">
 
 ## Step 3: Adjusting and Finalizing the Sketch
+
 1. Further refine the sketch by smoothing curves and fixing alignment.
 2. Adjust proportions and ensure symmetry.
 3. Prepare the sketch for 3D conversion.
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1WxL83NKecreH8TmwWNMu1l7xUKUoKVQ8&sz=w400" alt="Profile Photo">
 
 ## Step 4: Final Sketch Setup
+
 1. Make final adjustments to all directions and positions.
 2. Ensure the sketch is complete and ready for extrusion.
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1CS1zEvnsKsGFtLpl1DVMAbfKQm6x1ZKj&sz=w400" alt="Profile Photo">
 
 ## Step 5: Creating the 3D Model
+
 Use the Extrude tool to convert the sketch into a 3D shape.
 Adjust the height and depth of the model.
 
 ## Step 6: Finalizing the Design
+
 1. Review the 3D model.
 2. Make final adjustments to curves and edges.
 3. save the completed design.
