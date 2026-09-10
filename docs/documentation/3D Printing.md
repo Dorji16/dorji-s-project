@@ -11,7 +11,9 @@ I started my journey in 3D printing for the first time. Initially, I thought tha
 However, after sir taught us the whole process, I realized that 3D printing is not that hard to learn.
 
 ## Process
-1. Open PrusaSlicer: Launch PrusaSlicer on your computer.
+
+## Step 1: Open PrusaSlicer
+Launch PrusaSlicer on your computer.
 
 2. Select Your Printer: In the top-right corner, select the following:
 
