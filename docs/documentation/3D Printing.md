@@ -112,3 +112,10 @@ Monitor the first layer carefully.
 Use PLA material when starting with 3D printing.
 Keep models centered on the print bed.
 Avoid unnecessary supports to reduce print time and material usage.
+
+## Finished Print
+
+
+## Conclusion 
+
+Overall, 3D printing was a new and interesting experience for me. At first, I thought it would be very difficult to learn, but after learning the process and using PrusaSlicer, I understood the basic steps of 3D printing. I learned how to prepare a 3D model, choose the right settings, slice the model, and print it using the Prusa i3 MK3. This experience helped me understand how digital designs can be turned into real objects. I still need more practice, but I feel more confident with 3D printing now.
