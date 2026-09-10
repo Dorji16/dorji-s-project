@@ -29,24 +29,29 @@ Import your 3D model using one of the following methods:
 
 Click File → Import → Import STL/3MF/OBJ
 Drag and drop the .stl file into the build area
+The model will appear on the print bed.
 
-4. Position the Model: Use the tools on the left toolbar:
+4. Step 4: Position the Model
 
+Use the tools on the left toolbar to position your model
 
 ## Recommendation
 
 Keep the model flat on the print bed for better adhesion and print quality.
 
-5. Configure Print Settings
+## Step 5: Configure Print Settings
 Layer Height
 
-Choose the layer height:
+Choose the layer height you want to use.
+
 Infill
 15–20% for normal parts
-Higher for stronger parts
-Supports: use if your model has large overhangs.
+Use higher infill for stronger parts.
+Supports
 
-6. Slice the Model
+Use supports if your model has large overhangs.
+
+## Step 6: Slice the Model
 
 Click the Slice Now button located in the bottom-right corner.
 
