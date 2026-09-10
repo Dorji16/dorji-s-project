@@ -39,7 +39,8 @@ This video helped me learn basic tools like extrude, revolve, and fillet, which 
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1tXCEceKaBcxGIRmGjHBzz40Jmj9EjmA_&sz=w400" alt="Profile Photo">
 
-After learning for a quite few times, I decided to jump directly on making my project which is a simple water bottle.
+This first attempt helped me become more familiar with the software. After practicing a few times, I decided to move on to creating my project, which was a simple water bottle.
+
 # Step by Step process: 
 
 ## Step 1: Creating a Sketch
