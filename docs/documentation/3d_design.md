@@ -99,7 +99,9 @@ It was very hard for me to control which direction the lines and shapes should m
 
 I struggled to position different parts so that they matched properly, especially when I was creating the bottle neck. Making sure that the neck was centered with the body took some practice. 
 
-3. Issues with dimensions: I had to set the correct measurements which was very confusing and sometimes the number won't show up easily and made my design look very wrong. 
+3. 3. Issues With Dimensions
+
+Setting the correct measurements was also confusing for me. Sometimes the dimensions did not appear the way I expected, which made the design look incorrect.
 
 ## Solutions.
 1. Rewatching tutorials(Rewatching tutorials will help you learn more and you will notice mant new things that ou might have missed when you watch it for the fist time)
