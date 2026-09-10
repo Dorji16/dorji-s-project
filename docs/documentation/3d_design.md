@@ -20,6 +20,8 @@ For my project, I decided to make a simple water bottle in Onshape. At first, it
 Through this project, I learned how to create sketches, adjust dimensions, and turn a 2D sketch into a 3D shape. It took me quite some time to understand the process. If I were asked to create the same model again, I don't think I would be able to do it smoothly yet. I would still need more practice to remember all the steps.
 
 I am looking forward to learning these steps well and becoming more confident with Onshape by the end of this project.
+
+
 ## Getting Started
 
 1. Open Onshape at https://www.onshape.com/en/
