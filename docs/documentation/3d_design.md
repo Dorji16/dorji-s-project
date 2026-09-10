@@ -132,7 +132,7 @@ When I was confused about something, I asked my friends for help. Their explanat
 
 I also learned through trial and error. I made many mistakes while creating the bottle, but those mistakes helped me understand what I was doing wrong and eventually helped me complete the model.
 
-##. Conclusion
+## Conclusion
 
 Overall, this project helped me develop a better understanding of 3D design and Onshape. At the beginning, I found sketching, alignment, dimensions, and the different tools very difficult.
 
