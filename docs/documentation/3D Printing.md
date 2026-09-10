@@ -23,12 +23,12 @@ Printer: Prusa i3 MK3
 Filament: PLA (or your preferred material)
 Print Settings: 0.20mm QUALITY
 
-3. Import Your 3D Model: Import your 3D model using one of the following methods:
+## Step 3: Import Your 3D Model
+
+Import your 3D model using one of the following methods:
 
 Click File → Import → Import STL/3MF/OBJ
 Drag and drop the .stl file into the build area
-
-The model will appear on the print bed.
 
 4. Position the Model: Use the tools on the left toolbar:
 
