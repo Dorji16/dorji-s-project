@@ -90,7 +90,7 @@ I then refined the design by improving the edges and proportions. After going th
 4. Extrude - Used to turn the 2D sketch into a 3D shape.
 5. Fillet(if needed) - Used when needed to smooth or round edges.
 
-## challenges that I faced.
+## Challenges That I Faced
 1. Difficulty understanding sketch directions: It was very hard for me to control which way lines and shapes should move. 
 
 2. Trouble aligning shapes: I struggled to position different parts so they matched properly especially when I was making a bottle neck. 
