@@ -29,7 +29,6 @@ I am looking forward to learning these steps well and becoming more confident wi
 2. create an account if you don’t already have one.
 3. Log in and start a new document by clicking “Create” , “Document.”
 4. Name your document for your project(it can be the name of your project.)
-  
 5. Here’s the tutorial I used for my design:
 
 https://www.youtube.com/watch?v=iDgm6AVrNjg&t=64s
