@@ -116,4 +116,6 @@ I practiced the process multiple times. I realized that I learned a lot through 
 
 When I was confused about something, I asked my friends for help. Their explanations helped me understand some of the tools and processes better.
 
-4. Trial and error(I did a lot of trial and error which eventually helped me to get the exact product)
+4. Trial and Error
+
+I also learned through trial and error. I made many mistakes while creating the bottle, but those mistakes helped me understand what I was doing wrong and eventually helped me complete the model.
