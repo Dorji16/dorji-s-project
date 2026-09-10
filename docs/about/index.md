@@ -31,8 +31,7 @@ Student
 
 > "_Never Give Up Even In the Hardest Time"_
 
-I am Dorji Yangzom from Zhemgang, currently studying in the eleventh grade. I want to explore many things about technology. I want to create my own project and motivate others to learn and explore as well. To be honest, I was not very interested in exploring technology due to its complext code, however, last year I realized that I can do anything through these codes. It does take time but by judginf other team, I feel like its not that hard. 
-
+I am Dorji Yangzom from Zhemgang, currently studying in the eleventh grade. I want to explore many things about technology. I want to create my own project and motivate others to learn and explore as well. To be honest, I was not very interested in exploring technology due to its complex code. However, last year I realized that I can do anything through these codes which sparks my interest in this area. It does take time to learn all these things but gradually we will learn more than what we expected to learn.
 </div>
 
 </div>
