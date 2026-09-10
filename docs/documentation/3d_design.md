@@ -95,7 +95,9 @@ I then refined the design by improving the edges and proportions. After going th
 
 It was very hard for me to control which direction the lines and shapes should move. At first, I was confused about how to position different parts of the sketch correctly.
 
-2. Trouble aligning shapes: I struggled to position different parts so they matched properly especially when I was making a bottle neck. 
+2. Trouble Aligning Shapes
+
+I struggled to position different parts so that they matched properly, especially when I was creating the bottle neck. Making sure that the neck was centered with the body took some practice. 
 
 3. Issues with dimensions: I had to set the correct measurements which was very confusing and sometimes the number won't show up easily and made my design look very wrong. 
 
