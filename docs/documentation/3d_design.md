@@ -112,6 +112,8 @@ Rewatching tutorials helped me learn more. I noticed that I could understand and
 
 I practiced the process multiple times. I realized that I learned a lot through constant practice. The more I practiced, the more comfortable I became with the tools.
 
-3. Asking friends
+ 3. Asking Friends
+
+When I was confused about something, I asked my friends for help. Their explanations helped me understand some of the tools and processes better.
 
 4. Trial and error(I did a lot of trial and error which eventually helped me to get the exact product)
