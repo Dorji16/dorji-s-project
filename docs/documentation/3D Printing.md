@@ -62,7 +62,8 @@ Create toolpaths
 Estimate print time
 Calculate filament usage
 
-7. Preview the Slice
+## Step 7: Preview the Slice
+
 After slicing, click Preview.
 
 Use the vertical slider to inspect the print layer by layer.
@@ -73,10 +74,12 @@ Infill pattern
 Outer walls
 First layer quality
 
-8. Export G-code
+## Step 8: Export G-code
+
 Click Export G-code and save the file to:
-a.SD card
-b.USB drive
+
+SD card
+USB drive
 
 
 9. Print on the Prusa i3 MK3
@@ -92,15 +95,20 @@ d. Start the print
 2. Perform bed leveling
 3. Begin printing layer by layer
 4. Recommended Beginner Settings
-## Setting	Recommended Value
-1. Layer Height	0.20 mm
-2. Infill	15%
-3. Supports	Only if needed
-4. Nozzle Temperature (PLA)	215°C
-5. Bed Temperature (PLA)	60°C
+
+## Recommended Beginner Settings
+
+Setting	Recommended Value
+Layer Height-0.20 mm
+Infill-15%
+Supports-Only if needed
+Nozzle Temperature (PLA)-215°C
+Bed Temperature (PLA)-60°C
+
 ## Helpful Tips
-1. Clean the print bed before each print
-2. Monitor the first layer carefully
-3. Use PLA material when starting with 3D printing
-4. Keep models centered on the print bed
-5. Avoid unnecessary supports to reduce print time and material usage
+
+Clean the print bed before each print.
+Monitor the first layer carefully.
+Use PLA material when starting with 3D printing.
+Keep models centered on the print bed.
+Avoid unnecessary supports to reduce print time and material usage.
