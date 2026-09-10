@@ -24,16 +24,18 @@ I am looking forward to learning these steps well and becoming more confident wi
 
 
 ## Getting Started
+1. Open Onshape at Onshape.
+2. Create an account if you don’t already have one.
+3. Log in and start a new document by clicking “Create” → “Document.”
+4. Name the document according to your project. You can use the name of your project as the document name.
+5. Before starting my own design, I watched a tutorial to learn the basic tools in Onshape.
 
-1. Open Onshape at https://www.onshape.com/en/
-2. create an account if you don’t already have one.
-3. Log in and start a new document by clicking “Create” , “Document.”
-4. Name your document for your project(it can be the name of your project.)
-5. Here’s the tutorial I used for my design:
+## Tutorial I Used
+Here is the tutorial I used for my design:
 
-https://www.youtube.com/watch?v=iDgm6AVrNjg&t=64s
+YouTube tutorial
 
-This video helped me learn basic tools like extrude, revolve, and fillet, which are essential for creating 3D objects.
+This video helped me learn basic tools such as Extrude, Revolve, and Fillet, which are useful for creating and modifying 3D objects. Since the tutorial was aimed at beginners, it was easier for me to understand the tools and follow along with the steps.
 
 ## My first try:
 
