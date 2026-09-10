@@ -85,10 +85,10 @@ I then refined the design by improving the edges and proportions. After going th
 
 ## Tools Used in Onshape
 1. Sketch - Used to create the initial 2D shape.
-2. Line / Circle -
-3. Dimension
-4. Extrude
-5. Fillet(if needed)
+2. Line / Circle - Used to create different parts of the sketch.
+3. Dimension - Used to control the measurements and proportions.
+4. Extrude - Used to turn the 2D sketch into a 3D shape.
+5. Fillet(if needed) - Used when needed to smooth or round edges.
 
 ## challenges that I faced.
 1. Difficulty understanding sketch directions: It was very hard for me to control which way lines and shapes should move. 
