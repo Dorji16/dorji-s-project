@@ -5,8 +5,13 @@ Learning 3D design in Onshape was difficult because it was my first time using i
 
 However, after some time, I started learning through YouTube tutorials and by asking my friends for help. It is still challenging for me to know all the tools in Onshape, so I feel like it will take some time before I can use the software fully. Through this project, I wanted to improve my understanding of 3D design and become more comfortable using Onshape.
 
-## Water Bottle
-For my project, I made a water bottle in Onshape. At first, it was challenging because I had never even heard of it let alone using 3D CAD software before. I learned how to create sketches, adjust dimensions, and turn them into a 3D shape. It took me quite some time to understand the process. If I were asked to create the same model again, I don't think I would be able to do it smoothly yet. I would still need more practice to remember all the steps. I will have to practice once again to understand the whole process. I am looking forward to learn these steps by heart at the end of this project. 
+## Onshape
+
+Onshape is a cloud-based 3D CAD software that allows users to design parts and assemblies in a web browser. It also allows people to work together and automatically keeps track of changes.
+
+My first time using Onshape was difficult because I did not know how the tools worked. Little by little, however, I started learning and became able to create my own designs.
+
+I mainly used YouTube as a learning source. The tutorials explained the tools in a simple and understandable way. Most of the tutorials were made for beginners, and I found them quite effective because I was able to learn many new things about Onshape.
 
 # Introduction
 Learning design in Onshape was difficult because it was my first time using it. I didn’t know anything at first,not even about gitlab let alone using software to create my desighns.On top if that, understanding the tools and how to create shapes was also very hard for me. However, after some time, I started learning from youtube and my friends. It is still challenging for me to know all the tools in onshape, so I feel like it will take some time for me to be able to use it fully. 
