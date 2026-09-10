@@ -104,7 +104,9 @@ I struggled to position different parts so that they matched properly, especiall
 Setting the correct measurements was also confusing for me. Sometimes the dimensions did not appear the way I expected, which made the design look incorrect.
 
 ## Solutions.
-1. Rewatching tutorials(Rewatching tutorials will help you learn more and you will notice mant new things that ou might have missed when you watch it for the fist time)
+1. Rewatching Tutorials
+
+Rewatching tutorials helped me learn more. I noticed that I could understand and notice many new things that I had missed when watching the tutorial for the first time.
 
 2. Practicing multiple times(practice makes you perfect and I also realized that I learned so much through constant practice.)
 
