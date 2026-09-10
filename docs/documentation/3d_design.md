@@ -79,7 +79,9 @@ Adjust the height and depth of the model.
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1BRjj2U6z5RB7li46yi0vRZrb63_3s38O&sz=w400" alt="Profile Photo">
 
-This is the final 3D model of the water bottle. After completing the sketch, I used the extrude tool to convert it into a 3D shape and adjusted the overall form. The design was then refined by smoothing edges and ensuring proper proportions, resulting in the finished model.
+This is the final 3D model of my water bottle. After completing the sketch, I used the Extrude tool to convert it into a 3D shape and adjusted the overall form of the model.
+
+I then refined the design by improving the edges and proportions. After going through the different stages of sketching, adjusting, and modeling, I was able to complete my water bottle design.
 
 ## Tools Used in Onshape
 1. Sketch
