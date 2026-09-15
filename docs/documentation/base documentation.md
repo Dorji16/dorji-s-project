@@ -75,7 +75,7 @@ Learning these commands was an important step because they allowed me to manage 
  Branch Issues: Check you are on the correct branch (e.g., main) before pushing the messages. 
 When facing pipelines error which could effect the pushing accepting commits, we have to check pipelines status and sometimes you have to check .gitlab-ci.yml mistakes.
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1uefDPRyiJNgQixqrTtSrZ64cqXAjYzrO&sz=w400" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1_AEmTqbfh6fCMT8xRS5BOWUzNDiN9_9W&sz=w400" alt="Profile Photo">
 
 
 
