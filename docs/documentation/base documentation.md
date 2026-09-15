@@ -84,9 +84,10 @@ Another challenge was deploying my GitLab Pages. Sometimes, the deployment didnâ
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1e3MZZlmlWYVbflrZeIy0luoJs1fUQe0k&sz=w400" alt="Profile Photo">
 
 ## How I overcame it?
-I once again checked my .gitlab-ci.yml file to make sure that the pipeline was correctly set.
-Sometimes you just need to wait while the system is deploying their deployment of pages. 
-Once the pages are deployed, I can get access my site directly through the Pages URL provided by GitLab.
+   ## Deployment with GitHub Pages
+I checked my GitHub Actions workflow file to make sure the deployment was set up correctly.
+
+Sometimes, I needed to wait for GitHub to finish deploying the website. Once the deployment was complete, I could access my website through the GitHub Pages URL provided by GitHub.
  
  ## Documentation Site
  These pictures are some of the photo of my documentation site. All the things that I write in gitlab will be linked here which means all the things that I have done will be reflected here without manually copying codes.
