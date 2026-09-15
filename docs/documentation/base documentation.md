@@ -103,7 +103,7 @@ Sometimes, I needed to wait for GitHub to finish deploying the website. Once the
  
  <img class="profile-photo" src="https://drive.google.com/thumbnail?id=15jO4qJKOfl7D1CTfyw774btAiEvKU3ls&sz=w400" alt="Profile Photo">
  
- Whatever I write in web IDE, everything will show up in my documentation cite. However, to ensure this, I edited the mkdocs.yml file to link my project directly to the documentation site:
+Whenever I make changes to my documentation in the web IDE and push the changes to GitHub, those changes are reflected on my documentation site after the deployment is completed.
  
  <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1_CYnzEpJYg094m2ZIZNhQg-lb-yCdJRC&sz=w400" alt="Profile Photo"> 
 
