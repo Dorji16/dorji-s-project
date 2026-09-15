@@ -25,6 +25,14 @@ Git is a version control system that allows you to track changes in your files a
 GitLab is a platform that uses Git repositories and provides additional tools for collaboration, project management, code review, and automation through features such as Merge Requests, Issues, and CI/CD pipelines.
 
 Understanding this difference helped me understand why I was using Git commands together with the GitLab website.
+
+## 4. Creating a Repository
+
+The next step was creating a repository on GitHub. A repository is where my project files, code, documentation, and the history of changes are stored.
+
+When creating a repository, I needed to choose a name and decide whether it should be public or private.
+
+After creating the repository, I could connect it to my local project and start uploading my files.
 ## Challenges and solutions.
 
 ## 1.Commit Failures:
