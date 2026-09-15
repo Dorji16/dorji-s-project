@@ -109,7 +109,7 @@ Sometimes, I needed to wait for GitHub to finish deploying the website. Once the
 
 ## My Takeaways...
 
-1. You have to practice time to time to get comfortable with GitLab.
+1. You have to practice time to time to get comfortable with GitHub.
 
 2. You really need to be patient since deployments may take a quite a few times. 
 
