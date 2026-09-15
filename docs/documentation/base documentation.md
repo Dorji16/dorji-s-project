@@ -66,12 +66,12 @@ Create or edit files → Stage changes → Commit changes → Push changes to Gi
 Learning these commands was an important step because they allowed me to manage my project and keep my local files synchronized with GitHub.
 
 ## Challenges and solutions.
-  ## 1.Commit Failures:
+  ## 1.Commit and Push Errors
      One of the main challenges I faced was encountering errors when committing or pushing my changes. These errors made it difficult to save my changes to the GitHub repository.
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1uefDPRyiJNgQixqrTtSrZ64cqXAjYzrO&sz=w400" alt="Profile Photo">
 
-  ## How I overcame it?
+  ### How I Solved It?
  I checked that I was working on the correct branch, such as main, before committing and pushing my changes.When I encountered errors with GitHub Actions, I checked the workflow status and logs to find the cause of the problem.
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1_AEmTqbfh6fCMT8xRS5BOWUzNDiN9_9W&sz=w400" alt="Profile Photo">
