@@ -96,7 +96,7 @@ Sometimes, I needed to wait for GitHub to finish deploying the website. Once the
 
  
  ## Documentation Site
- These pictures are some of the photo of my documentation site. All the things that I write in gitlab will be linked here which means all the things that I have done will be reflected here without manually copying codes.
+ These pictures are some of the photo of my documentation site. All the things that I write in gitHub will be linked here which means all the things that I have done will be reflected here without manually copying codes.
  
  <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1WNX4euaAglyGNYLQp50Q4Dy61x2W-f_9&sz=w400" alt="Profile Photo">
 
@@ -113,7 +113,7 @@ Sometimes, I needed to wait for GitHub to finish deploying the website. Once the
 
 2. You really need to be patient since deployments may take a quite a few times. 
 
-3. Always double check your branches, commits, and gitlab-ci.yml to prevent errors of pipelines and commits.
+3. Sometimes, I needed to check my GitHub Actions workflow file for mistakes when the deployment or pipeline failed.
 
 4. Use screenshots and notes to track your learnings so that when you write base documentation, it would be easy to find access to informations. 
 
