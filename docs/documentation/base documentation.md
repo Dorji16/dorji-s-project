@@ -33,6 +33,20 @@ The next step was creating a repository on GitHub. A repository is where my proj
 When creating a repository, I needed to choose a name and decide whether it should be public or private.
 
 After creating the repository, I could connect it to my local project and start uploading my files.
+
+## 5. Basic Git Workflow
+
+One of the first things I learned was the basic workflow for sending my local project to GitHub:
+Create or edit files → Stage changes → Commit changes → Push changes to GitHub
+
+## Some of the basic Git commands I learned include:
+1.git status — checks the current state of my repository.
+2.git add — stages changes before committing them.
+3.git commit — records the changes in Git history.
+4.git push — uploads my commits to GitHub.
+
+Learning these commands was an important step because they allowed me to manage my project and keep my local files synchronized with GitHub.
+
 ## Challenges and solutions.
 
 ## 1.Commit Failures:
