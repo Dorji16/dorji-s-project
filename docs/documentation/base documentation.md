@@ -72,8 +72,7 @@ Learning these commands was an important step because they allowed me to manage 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1uefDPRyiJNgQixqrTtSrZ64cqXAjYzrO&sz=w400" alt="Profile Photo">
 
   ## How I overcame it?
- Branch Issues: Check you are on the correct branch (e.g., main) before pushing the messages. 
-When I encountered errors with GitHub Actions, I checked the workflow status and logs to find the cause of the problem.
+ I checked that I was working on the correct branch, such as main, before committing and pushing my changes.When I encountered errors with GitHub Actions, I checked the workflow status and logs to find the cause of the problem.
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1_AEmTqbfh6fCMT8xRS5BOWUzNDiN9_9W&sz=w400" alt="Profile Photo">
 
