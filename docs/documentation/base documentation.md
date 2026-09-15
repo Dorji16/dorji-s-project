@@ -6,12 +6,9 @@ I am using GitHub for the first time, and at the beginning, it was difficult for
 This document explains my journey of learning GitHub and how I started using it for my project. It covers the basic steps I followed, the challenges I faced while working with Git and GitHub, and some of the difficulties I experienced when writing and organizing my project documentation.
 
 ## 2. Getting Started with GitLab
+To start using GitHub, I first needed to create a GitHub account. If you already have an account, you can simply sign in to GitHub.
 
-To start using GitLab, you first need to create a GitLab account. If you already have an account, you can simply visit the GitLab website and sign in.
-
-GitLab
-
-After signing in, you will be taken to your personal dashboard. From there, you can view your projects, create new projects, manage repositories, and access other GitLab features.
+After signing in, I could access my GitHub dashboard, where I can view my repositories, create new repositories, manage my projects, and access other GitHub features.
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1WA5ystUbvIuZcg9MEcte8i9O-08gXHIm&sz=w400" alt="Profile Photo">
 From here, you can start creating your projects, repositories, and designs.
