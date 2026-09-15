@@ -78,14 +78,14 @@ Learning these commands was an important step because they allowed me to manage 
 
 
 
-## 2.Deployment Issues of pages:
+## 2.GitHub Pages Deployment Issues
 Another challenge was deploying my GitHub Pages. Sometimes, the GitHub Pages option or deployment status was not immediately visible.
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=13zS4mCygeoUiQXYu_NIrqiTwpF34jSD1&sz=w400" alt="Profile Photo">
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1e3MZZlmlWYVbflrZeIy0luoJs1fUQe0k&sz=w400" alt="Profile Photo">
 
-## How I overcame it?
+## How I Solved It
    ## Deployment with GitHub Pages
 I checked my GitHub Actions workflow file to make sure the deployment was set up correctly.
 
