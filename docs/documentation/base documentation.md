@@ -1,8 +1,9 @@
 # My Journey Through Gitlab.
 ## Introduction.
 
-I am using gitlab for the first time and it's very difficult for me to learn all of these, but with the right practice I have improved a lot.
-This document explains how I started using GitLab for my project, the challenges I faced especially pipeline errors. It also describes my difficulties in writing documentation.
+I am using GitLab for the first time, and at the beginning, it was quite difficult to understand all the different features and concepts. However, with regular practice and by learning from my mistakes, I have gradually improved my understanding and become more comfortable using GitLab.
+
+This document explains my journey of learning GitLab and how I started using it for my project. It covers the basic steps I followed, the challenges I faced, especially with pipeline errors, and some of the difficulties I experienced while writing and organizing project documentation.
 
 ## Getting Started.
 
