@@ -1,9 +1,9 @@
 # My Journey Through Gitlab.
 ## Introduction.
 
-I am using GitLab for the first time, and at the beginning, it was quite difficult to understand all the different features and concepts. However, with regular practice and by learning from my mistakes, I have gradually improved my understanding and become more comfortable using GitLab.
+I am using GitHub for the first time, and at the beginning, it was difficult for me to understand all the different features and commands. However, with regular practice and by learning from my mistakes, I have gradually improved my understanding and become more comfortable using GitHub.
 
-This document explains my journey of learning GitLab and how I started using it for my project. It covers the basic steps I followed, the challenges I faced, especially with pipeline errors, and some of the difficulties I experienced while writing and organizing project documentation.
+This document explains my journey of learning GitHub and how I started using it for my project. It covers the basic steps I followed, the challenges I faced while working with Git and GitHub, and some of the difficulties I experienced when writing and organizing my project documentation.
 
 ## 2. Getting Started with GitLab
 
