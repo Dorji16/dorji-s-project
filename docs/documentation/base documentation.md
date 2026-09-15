@@ -37,6 +37,9 @@ Set the repository to Public or Private.
 
 Finally, click “Create repository” to finish.
 
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1/1bteB7Qvn5ALqtuu5ptGjewqSoydxzDGf/&sz=w400" alt="Profile Photo">
+
+
 ## 5. Basic Git Workflow
 One of the first things I learned was the basic workflow for sending my local project to GitHub:
 Create or edit files → Stage changes → Commit changes → Push changes to GitHub
