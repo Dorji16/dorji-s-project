@@ -80,7 +80,7 @@ When facing pipelines error which could effect the pushing accepting commits, we
 
 
 ## 2.Deployment Issues of pages:
-Another challenge was deploying my GitLab Pages. Sometimes, the deployment didn’t show immediately in the deploy page and the “Pages” option wasn’t visible in the page.
+Another challenge was deploying my GitHub Pages. Sometimes, the GitHub Pages option or deployment status was not immediately visible.
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=13zS4mCygeoUiQXYu_NIrqiTwpF34jSD1&sz=w400" alt="Profile Photo">
 
