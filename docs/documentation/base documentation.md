@@ -67,7 +67,7 @@ Learning these commands was an important step because they allowed me to manage 
 
 ## Challenges and solutions.
   ## 1.Commit Failures:
-     One of the main challenges I faced was when commits failure. This failure prevented me from pushing my code to the repository, which is compulsary for saving changes.
+     One of the main challenges I faced was encountering errors when committing or pushing my changes. These errors made it difficult to save my changes to the GitHub repository.
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1uefDPRyiJNgQixqrTtSrZ64cqXAjYzrO&sz=w400" alt="Profile Photo">
 
