@@ -8,6 +8,8 @@ This document explains my journey of learning GitHub and how I started using it 
 ## 2. Getting Started with GitLab
 To start using GitHub, I first needed to create a GitHub account. If you already have an account, you can simply sign in to GitHub.
 
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1HmlwAT9iPXJ_Hvd6aLWPP-OP1S4LnsaJ&sz=w400" alt="Profile Photo">
+
 After signing in, I could access my GitHub dashboard, where I can view my repositories, create new repositories, manage my projects, and access other GitHub features.
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1WA5ystUbvIuZcg9MEcte8i9O-08gXHIm&sz=w400" alt="Profile Photo">
@@ -37,12 +39,17 @@ Set the repository to Public or Private.
 
 Finally, click “Create repository” to finish.
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1/1bteB7Qvn5ALqtuu5ptGjewqSoydxzDGf/&sz=w400" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1bteB7Qvn5ALqtuu5ptGjewqSoydxzDGf&sz=w400" alt="Profile Photo">
 
 
 ## 5. Basic Git Workflow
 One of the first things I learned was the basic workflow for sending my local project to GitHub:
 Create or edit files → Stage changes → Commit changes → Push changes to GitHub
+
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1wHS-Cv1UakH3NUlp2-yHCzkONIoF4XLn&sz=w400" alt="Profile Photo">
+
+1. You have to drop down the changes by clickig in the + sign.
+2. The you have to write something and drop down the "commit it" and choose the "commit and push."
 
 ## Some of the basic Git commands I learned include:
 1.git status — checks the current state of my repository.
