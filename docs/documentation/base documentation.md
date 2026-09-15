@@ -81,6 +81,8 @@ Another challenge was deploying my GitLab Pages. Sometimes, the deployment didnâ
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=13zS4mCygeoUiQXYu_NIrqiTwpF34jSD1&sz=w400" alt="Profile Photo">
 
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1e3MZZlmlWYVbflrZeIy0luoJs1fUQe0k&sz=w400" alt="Profile Photo">
+
 ## How I overcame it?
 I once again checked my .gitlab-ci.yml file to make sure that the pipeline was correctly set.
 Sometimes you just need to wait while the system is deploying their deployment of pages. 
