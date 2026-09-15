@@ -1,4 +1,4 @@
-# My Journey Through Gitlab.
+# My Journey Through GitHub.
 ## Introduction.
 
 I am using GitHub for the first time, and at the beginning, it was difficult for me to understand all the different features and commands. However, with regular practice and by learning from my mistakes, I have gradually improved my understanding and become more comfortable using GitHub.
