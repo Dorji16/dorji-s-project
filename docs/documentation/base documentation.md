@@ -51,11 +51,17 @@ Create or edit files → Stage changes → Commit changes → Push changes to Gi
 1. You have to drop down the changes by clickig in the + sign.
 2. The you have to write something and drop down the "commit it" and choose the "commit and push."
 
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1-AP1qX-v0CrbDTUe--sEP2CLtLRJoWp2&sz=w400" alt="Profile Photo">
+
+
 ## Some of the basic Git commands I learned include:
-1.git status — checks the current state of my repository.
-2.git add — stages changes before committing them.
-3.git commit — records the changes in Git history.
-4.git push — uploads my commits to GitHub.
+1. git status — checks the current state of my repository.
+
+2. git add — stages changes before committing them.
+
+3. git commit — records the changes in Git history.
+
+4. git push — uploads my commits to GitHub.
 
 Learning these commands was an important step because they allowed me to manage my project and keep my local files synchronized with GitHub.
 
