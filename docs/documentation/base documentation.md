@@ -75,6 +75,9 @@ Learning these commands was an important step because they allowed me to manage 
  Branch Issues: Check you are on the correct branch (e.g., main) before pushing the messages. 
 When facing pipelines error which could effect the pushing accepting commits, we have to check pipelines status and sometimes you have to check .gitlab-ci.yml mistakes.
 
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1uefDPRyiJNgQixqrTtSrZ64cqXAjYzrO&sz=w400" alt="Profile Photo">
+
+
 
 ## 2.Deployment Issues of pages:
 Another challenge was deploying my GitLab Pages. Sometimes, the deployment didn’t show immediately in the deploy page and the “Pages” option wasn’t visible in the page.
@@ -88,6 +91,9 @@ Another challenge was deploying my GitLab Pages. Sometimes, the deployment didn�
 I checked my GitHub Actions workflow file to make sure the deployment was set up correctly.
 
 Sometimes, I needed to wait for GitHub to finish deploying the website. Once the deployment was complete, I could access my website through the GitHub Pages URL provided by GitHub.
+
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1LiV7JWJ8_S14RyRR2wm7aHiLrYuzrYOS&sz=w400" alt="Profile Photo">
+
  
  ## Documentation Site
  These pictures are some of the photo of my documentation site. All the things that I write in gitlab will be linked here which means all the things that I have done will be reflected here without manually copying codes.
