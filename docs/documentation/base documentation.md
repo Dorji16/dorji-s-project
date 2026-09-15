@@ -26,9 +26,16 @@ Understanding this difference helped me understand how Git commands and GitHub w
 ## 4. Creating a Repository
 The next step was creating a repository on GitHub. A repository is where my project files, code, documentation, and the history of changes are stored.
 
-When creating a repository, I needed to choose a name and decide whether it should be public or private.
+After you create an account on GitHub, you’ll be taken to your new GitHub dashboard. You should see a green button that says, “Create repository.”
+An animated gif sAfter creating a GitHub account, you will be taken to your dashboard. Click the green “New” button to create a repository.
 
-After creating the repository, I could connect it to my local project and start uploading my files.
+## On the New Repository page, you can:
+Enter a repository name.
+Choose the owner.
+Add a project description.
+Set the repository to Public or Private.
+
+Finally, click “Create repository” to finish.
 
 ## 5. Basic Git Workflow
 One of the first things I learned was the basic workflow for sending my local project to GitHub:
