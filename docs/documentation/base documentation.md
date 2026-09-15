@@ -89,7 +89,7 @@ Sometimes you just need to wait while the system is deploying their deployment o
 Once the pages are deployed, I can get access my site directly through the Pages URL provided by GitLab.
  
  ## Documentation Site
- These pictures are some of the photo of my documentation site. Allthe things that I write in gitlab will be linked here which means all the things that I have done will be reflected here without manually copying codes.
+ These pictures are some of the photo of my documentation site. All the things that I write in gitlab will be linked here which means all the things that I have done will be reflected here without manually copying codes.
  
  <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1WNX4euaAglyGNYLQp50Q4Dy61x2W-f_9&sz=w400" alt="Profile Photo">
 
