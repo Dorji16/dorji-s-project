@@ -16,6 +16,15 @@ After signing in, you will be taken to your personal dashboard. From there, you 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1WA5ystUbvIuZcg9MEcte8i9O-08gXHIm&sz=w400" alt="Profile Photo">
 From here, you can start creating your projects, repositories, and designs.
 
+## 3. Understanding Git and GitLab
+
+Before working with GitLab, it is important to understand the difference between Git and GitLab.
+
+Git is a version control system that allows you to track changes in your files and code. It helps you keep a history of your work and allows you to return to previous versions when necessary.
+
+GitLab is a platform that uses Git repositories and provides additional tools for collaboration, project management, code review, and automation through features such as Merge Requests, Issues, and CI/CD pipelines.
+
+Understanding this difference helped me understand why I was using Git commands together with the GitLab website.
 ## Challenges and solutions.
 
 ## 1.Commit Failures:
