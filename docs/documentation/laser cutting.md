@@ -47,10 +47,10 @@ Use the selection tool to move the traced version.
 Check the new vector image.
 Delete the original raster image.
 Remove any unwanted dots or details.
-
 It is important to inspect the design carefully before sending it to the laser cutter.
-
 A messy vector file can result in unwanted marks or cuts.
+
+
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=113jedvSvM3A5B9eHwvahDZW1bngb-Huo&sz=w400" alt="Profile Photo">
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1CP_KEpRBtBMYvb1UpUVZiNJhKlJCMpL-&sz=w400" alt="Profile Photo">
