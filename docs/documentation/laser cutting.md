@@ -77,6 +77,15 @@ Engraving removes or marks only the surface of the material.
 2. Vector Cutting
 Vector cutting follows a path and cuts through the material.
 
+## Step 9 — Send the Design to the Machine
+Once everything has been checked:
+ -Save the design.
+-Confirm the laser settings.
+-Make sure the material is positioned correctly.
+-Check the machine.
+-Send the design to the laser cutter.
+-Monitor the machine while it is operating.
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=113jedvSvM3A5B9eHwvahDZW1bngb-Huo&sz=w400" alt="Profile Photo">
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1CP_KEpRBtBMYvb1UpUVZiNJhKlJCMpL-&sz=w400" alt="Profile Photo">
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1yA1sfNIJTXqkI6peRCsTfPiALZnrHsuJ&sz=w400" alt="Profile Photo">
@@ -140,9 +149,14 @@ Vector cutting (deep cutting)
 7. Send to Machine (Print)
 Click Print
 
-## Reminders
-1.Never touch the laser while printing.
-2.Do not open the machine lid during cutting.
-3.Exhauster On always.
-4.Compressor On.
-4.Stay near the machine while it is running 
+## Important safety rules:
+Never look directly at the laser beam.
+Never touch the material immediately after cutting, as it may be hot.
+Do not open the machine lid while it is operating.
+Keep the exhaust/ventilation system turned on.
+Make sure the air compressor is operating when required by the machine.
+Stay near the machine while it is running.
+Never leave the laser cutter unattended.
+Use only materials approved for the specific laser cutter.
+If something catches fire or behaves unexpectedly, stop the machine and follow the workshop's emergency procedure.
+Ask for help if you are unsure about a setting or material.
