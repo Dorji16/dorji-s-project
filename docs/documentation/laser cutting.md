@@ -1,6 +1,9 @@
 # Laser cutting.
-Today, with the help from our friends, we learned how to use a laser cutter. After they taught us, we each created our own design. It was fairly easy because we only learned the basics.
-From today’s lesson,  I learned laser cutting uses a focused laser beam to cut or engrave materials precisely. I also learned that it is important to adjust the speed and power settings correctly before printing according to our materials. In addition, proper positioning and careful measurement are necessary to avoid mistakes such as burning. Most importantly, I learned that we must saty focused and be careful to ensure safety.
+Today, with the help of our friends and peers, we learned how to use a laser cutter. They introduced us to the basic functions of the machine and showed us how to prepare a design before sending it to the laser cutter.
+
+After learning the basics, we each created and printed our own designs. The process was fairly easy to understand because we started with simple designs and gradually learned how the different settings affect the final result.
+
+This experience helped me understand that laser cutting is not simply about pressing a button to print a design. We need to carefully prepare the design, choose the correct settings, position the material properly, and follow safety procedures.
 ## Process
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=113jedvSvM3A5B9eHwvahDZW1bngb-Huo&sz=w400" alt="Profile Photo">
