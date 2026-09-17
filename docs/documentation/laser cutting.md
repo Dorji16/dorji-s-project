@@ -11,14 +11,13 @@ Laser cutting is a manufacturing process that uses a focused laser beam to cut, 
 
 Depending on the machine and its settings, laser cutters can work with materials such as:
 
-Wood
-Acrylic
-Cardboard
-Paper
-Some types of glass — mainly for engraving
-Other suitable materials supported by the specific laser cutter
+-Wood
+-Acrylic
+-Cardboard
 
 The laser uses heat to remove or burn material along a specific path. This allows us to create detailed designs, shapes, patterns, signs, decorations, and even small products such as keychains.
+
+
 ## Process
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=113jedvSvM3A5B9eHwvahDZW1bngb-Huo&sz=w400" alt="Profile Photo">
