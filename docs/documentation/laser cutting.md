@@ -69,6 +69,14 @@ Faster speed → laser moves across the material more quickly.
 Higher power → more energy is delivered to the material
 Lower power → less energy is delivered
 
+## Step 7 — Choose the Cutting Mode
+There are different ways a laser cutter can process a design.
+1. Engraving
+Engraving removes or marks only the surface of the material.
+
+2. Vector Cutting
+Vector cutting follows a path and cuts through the material.
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=113jedvSvM3A5B9eHwvahDZW1bngb-Huo&sz=w400" alt="Profile Photo">
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1CP_KEpRBtBMYvb1UpUVZiNJhKlJCMpL-&sz=w400" alt="Profile Photo">
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1yA1sfNIJTXqkI6peRCsTfPiALZnrHsuJ&sz=w400" alt="Profile Photo">
