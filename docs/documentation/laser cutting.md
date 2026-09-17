@@ -27,6 +27,19 @@ Step 1 — Choose a Design
 -When choosing an image, it is helpful to select one with clear shapes and simple outlines, especially when you are still learning.
 -After choosing the image, import it into Inkscape.
 
+## Step 2 — Convert the Image into a Vector
+Most images found online are raster images. They are made up of pixels, so they can become blurry when enlarged.
+For laser cutting, we often need a vector design because vectors are made from paths and can be resized without losing their shape.
+## In Inkscape:
+Path → Trace Bitmap
+The Trace Bitmap function converts the image into a vector.
+
+A vector design gives the laser cutter clear paths to follow. It can also help remove:
+ - Blurry edges
+- Unwanted dots
+ - Small details
+- Low-resolution areas
+
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=113jedvSvM3A5B9eHwvahDZW1bngb-Huo&sz=w400" alt="Profile Photo">
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1CP_KEpRBtBMYvb1UpUVZiNJhKlJCMpL-&sz=w400" alt="Profile Photo">
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1yA1sfNIJTXqkI6peRCsTfPiALZnrHsuJ&sz=w400" alt="Profile Photo">
