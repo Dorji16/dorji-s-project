@@ -4,6 +4,21 @@ Today, with the help of our friends and peers, we learned how to use a laser cut
 After learning the basics, we each created and printed our own designs. The process was fairly easy to understand because we started with simple designs and gradually learned how the different settings affect the final result.
 
 This experience helped me understand that laser cutting is not simply about pressing a button to print a design. We need to carefully prepare the design, choose the correct settings, position the material properly, and follow safety procedures.
+
+## What Is Laser Cutting?
+
+Laser cutting is a manufacturing process that uses a focused laser beam to cut, engrave, or mark materials with high precision.
+
+Depending on the machine and its settings, laser cutters can work with materials such as:
+
+Wood
+Acrylic
+Cardboard
+Paper
+Some types of glass — mainly for engraving
+Other suitable materials supported by the specific laser cutter
+
+The laser uses heat to remove or burn material along a specific path. This allows us to create detailed designs, shapes, patterns, signs, decorations, and even small products such as keychains.
 ## Process
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=113jedvSvM3A5B9eHwvahDZW1bngb-Huo&sz=w400" alt="Profile Photo">
