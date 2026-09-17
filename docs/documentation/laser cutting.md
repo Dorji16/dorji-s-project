@@ -22,12 +22,10 @@ The laser uses heat to remove or burn material along a specific path. This allow
 
 ## How to Prepare a Design for Laser Cutting
 Step 1 — Choose a Design
-The first step is to choose an image or design.
-You can find black and white images from Pinterest or Google Images.
-
-When choosing an image, it is helpful to select one with clear shapes and simple outlines, especially when you are still learning.
-
-After choosing the image, import it into Inkscape.
+-The first step is to choose an image or design.
+-You can find black and white images from Pinterest or Google Images.
+-When choosing an image, it is helpful to select one with clear shapes and simple outlines, especially when you are still learning.
+-After choosing the image, import it into Inkscape.
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=113jedvSvM3A5B9eHwvahDZW1bngb-Huo&sz=w400" alt="Profile Photo">
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1CP_KEpRBtBMYvb1UpUVZiNJhKlJCMpL-&sz=w400" alt="Profile Photo">
