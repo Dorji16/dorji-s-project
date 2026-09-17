@@ -59,13 +59,15 @@ The boundary defines the area around the design and can also be used to create t
 Before sending the design to the machine, we need to choose the appropriate laser settings.
 
 The two important settings I learned about are:
-
-Speed
-
-Speed controls how quickly the laser moves across the material.
-
+ 1. Speed
+     Speed controls how quickly the laser moves across the material.
 Slower speed → laser stays on an area longer
-Faster speed → laser moves across the material more quickl
+Faster speed → laser moves across the material more quickly.
+
+2. Power
+   Power controls the strength of the laser.
+Higher power → more energy is delivered to the material
+Lower power → less energy is delivered
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=113jedvSvM3A5B9eHwvahDZW1bngb-Huo&sz=w400" alt="Profile Photo">
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1CP_KEpRBtBMYvb1UpUVZiNJhKlJCMpL-&sz=w400" alt="Profile Photo">
